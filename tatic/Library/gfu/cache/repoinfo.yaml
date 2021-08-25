@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-08-20T21:52:50.275-03:00
-  initializedAtString: 2021-08-20T21:52:50.257-03:00
+  lastUpdatedAtString: 2021-08-25T19:58:26.960-03:00
+  initializedAtString: 2021-08-25T19:58:26.960-03:00
   currentGitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/mexerica/SRPG.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: 
+    name: main
+    tracking: origin/main
   currentConfigBranch:
-    name: master
+    name: main
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/mexerica/SRPG.git
+    trackingBranch: main
   currentConfigRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/mexerica/SRPG.git
   currentHead: 
