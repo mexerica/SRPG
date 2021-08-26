@@ -44,7 +44,7 @@ public class Tile : MonoBehaviour
 
     public void Reset()
     {
-        adjacencyList.Clear();
+        adjacencyLists.Clear();
         current = false;
         target = false;
         selectable = false;

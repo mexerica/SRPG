@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-08-25T19:58:26.960-03:00
-  initializedAtString: 2021-08-25T19:58:26.960-03:00
+  lastUpdatedAtString: 2021-08-26T20:34:26.195-03:00
+  initializedAtString: 2021-08-26T20:28:18.397-03:00
   currentGitRemote:
     name: origin
     url: https://github.com/mexerica/SRPG.git
